@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "coveralls": "^3.0.4",
-    "mocha": "^4.1.0",
+    "mocha": "^6.2.0",
     "nyc": "^14.1.1",
     "sinon": "^7.3.2",
     "snazzy": "^8.0.0",
